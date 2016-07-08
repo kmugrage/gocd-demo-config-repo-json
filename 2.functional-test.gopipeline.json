@@ -10,7 +10,7 @@
       "stage": "build"
     },
     {
-      "url": "https://github.com/kmugrage/gocd-demo-config-repo-json.git",
+      "url": "https://github.com/kmugrage/gocd-demo-config-repo-code.git",
       "type": "git",
       "name": "code"
     }
